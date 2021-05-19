@@ -1,1 +1,1 @@
-# paymentgate
+# paymentgateway
